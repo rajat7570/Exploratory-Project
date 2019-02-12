@@ -1,0 +1,17 @@
+Name of BoreHole,Starting,Ending,Rock type,UCS(MPa)
+BH1,10,15,Sand,35
+BH1,15,17,coal,25
+BH1,17,21,Mud,50
+BH1,21,25,Limestone,100
+BH2,15,20,Sand,35
+BH2,20,23,Clay,45
+BH2,23,26,Limestone,100
+BH2,26,31,coal,23
+BH2,31,35,Sandstone,60
+BH3,20,25,Mud,50
+BH3,25,27,Sandstone,60
+BH3,27,31,coal,25
+BH3,31,33,Clay,45
+BH4,25,30,Clay,45
+BH4,30,32,Sandstone,60
+BH4,32,35,coal,25
