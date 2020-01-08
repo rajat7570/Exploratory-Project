@@ -1,3 +1,2 @@
-# Exploratory-Project
-This is my exploratory project in my 3rd semester.
+# Exploratory BTech-Project
 Open explo.pdf file for more information about the project.
